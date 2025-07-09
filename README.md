@@ -18,7 +18,7 @@ Ichiraku Ramen is a responsive, anime-themed restaurant landing page inspired by
 
 ## Live Preview
 
-- You can see the live preview [here](https://rajatthedev.github.io/Restaurant-Page/)
+- You can see the live preview [here](https://rajatthedev.github.io/Ichiraku-Ramen/)
 
 ## Features
 
@@ -49,7 +49,7 @@ If you want to explore, modify, or test this project on your local machine, foll
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/rajatthedev/Restaurant-Page.git
+git clone git@github.com:RajatTheDev/Ichiraku-Ramen.git
 cd Restaurant-Page
 ```
 2. **Install dependencies**
